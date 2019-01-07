@@ -1,5 +1,5 @@
 /**
- * Ultralightweight NetWM desktop pager setlayout by Nicklas W Bjurman
+ * Ultralightweight NetWM desktop pager setlayout by Tyra Bjurman
  * Derivative work of Mikachu's setlayout.c from Openbox official website.
  *
  * To compile this program: gcc -o setlayout setlayout.c -lX11
